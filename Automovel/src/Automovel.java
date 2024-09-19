@@ -3,7 +3,7 @@ public class Automovel {
     private String modelo;
     private int ano;
 
-    // Construtor padrão
+    // Construtor padrão da classe Automovel
     public Automovel() {
         this.marca = "Toyota";
         this.modelo = "Corolla";
